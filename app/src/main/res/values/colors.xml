@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whatsapp_primary">#075E54</color>
+    <color name="whatsapp_primary_dark">#128C7E</color>
+    <color name="whatsapp_accent">#25D366</color>
+    <color name="whatsapp_chat_background">#ECE5DD</color>
+    <color name="whatsapp_primary_text">#075E54</color>
+    <color name="whatsapp_secondary_text">#25D366</color>
+    <color name="whatsapp_time_text">#999999</color>
+    <color name="whatsapp_message_text">#000000</color>
+</resources>
